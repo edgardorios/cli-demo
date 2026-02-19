@@ -1,9 +1,3 @@
-# This is a test
-
-# This is the second test
-
----
-
 # Setting Up Claude Code on Linux (Linux Mint)
 
 A step-by-step guide to get Claude Code up and running on Linux Mint.
